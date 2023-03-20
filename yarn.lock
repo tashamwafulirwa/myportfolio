@@ -1105,6 +1105,11 @@
     "quick-lru" "^5.1.1"
     "resolve" "^1.22.1"
 
+"three@^0.150.1":
+  "integrity" "sha512-5C1MqKUWaHYo13BX0Q64qcdwImgnnjSOFgBscOzAo8MYCzEtqfQqorEKMcajnA3FHy1yVlIe9AmaMQ0OQracNA=="
+  "resolved" "https://registry.npmjs.org/three/-/three-0.150.1.tgz"
+  "version" "0.150.1"
+
 "to-fast-properties@^2.0.0":
   "integrity" "sha512-/OaKK0xYrs3DmxRYqL/yDc+FxFUVYhDlXMhRmv3z915w2HF1tnN1omB354j8VUGO/hbRzyD6Y3sA7v7GS/ceog=="
   "resolved" "https://registry.npmjs.org/to-fast-properties/-/to-fast-properties-2.0.0.tgz"
